@@ -35,4 +35,11 @@ public class Circulo extends FijuraGeometrica implements Area{
     public static int getCantidadObjetos(){
         return Circulo.cantidadObjetos;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (o == null || getClass() != o.getClass()) return false;
+        Circulo circulo = (Circulo) o;
+        return Double.compare(radio, circulo.radio) == 0;
+    }
 }

@@ -13,5 +13,11 @@ public class PruebaFiguras {
         System.out.println(c1.isRellenado());
         System.out.println(c1.calcularArea());
 
+        /*id del objeto
+        System.out.println(c1.hashCode());
+        System.out.println(c2.hashCode());*/
+        System.out.println(c1);
+        System.out.println(c1.equals(c2));
+
     }
 }

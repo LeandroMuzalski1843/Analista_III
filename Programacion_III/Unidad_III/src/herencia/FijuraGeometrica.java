@@ -29,4 +29,20 @@ public class FijuraGeometrica {
     public void setRellenado(boolean rellenado) {
         this.rellenado = rellenado;
     }
+
+    /* Conversion del objeto a cadena que yo necesito
+    @Override
+    public String toString() {
+        return "El color de mi figura es: " + this.getColor();
+    }
+    */
+
+    //con alt+ins
+    @Override
+    public String toString() {
+        return "FijuraGeometrica{" +
+                "color='" + color + '\'' +
+                ", rellenado=" + rellenado +
+                '}';
+    }
 }
