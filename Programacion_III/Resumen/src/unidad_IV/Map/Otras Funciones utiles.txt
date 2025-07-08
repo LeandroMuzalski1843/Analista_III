@@ -1,0 +1,16 @@
+Map<String, String> mapa = new HashMap<>();
+
+// putIfAbsent (evita sobrescribir si ya existe)
+mapa.putIfAbsent("clave1", "valor1");
+
+// getOrDefault
+String valor = mapa.getOrDefault("clave2", "no encontrado");
+
+// replace si coincide
+mapa.replace("clave1", "valor1", "valorActualizado");
+
+// clear() elimina todo
+mapa.clear();
+
+// isEmpty()
+boolean vacio = mapa.isEmpty();
