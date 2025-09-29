@@ -1,4 +1,10 @@
-package PACKAGE_NAME;
+public class Efectivo extends FormaDePago{
+    public Efectivo(int porcentaje) {
+        super(porcentaje);
+    }
 
-public class Efectivo {
+    @Override
+    public float calcularPrecio(float monto) {
+        return monto- ((monto * getPorcentaje())/100) ;
+    }
 }

@@ -1,7 +1,6 @@
-import javax.management.MBeanAttributeInfo;
 import java.util.Scanner;
 
-public class Ejercico2 {
+public class Ejercicio2 {
     private float num1;
     private float num2;
 

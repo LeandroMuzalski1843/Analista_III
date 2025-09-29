@@ -1,4 +1,10 @@
-package PACKAGE_NAME;
+public class Credito extends FormaDePago{
+    public Credito(int porcentaje) {
+        super(porcentaje);
+    }
 
-public class Credito {
+    @Override
+    public float calcularPrecio(float monto) {
+        return monto + ((monto * getPorcentaje())/100) ;
+    }
 }

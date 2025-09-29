@@ -1,7 +1,6 @@
-import java.lang.reflect.Array;
 import java.util.*;
 
-public class Ejercicio1 {
+public class apunte {
     public static void main(String[] args) {
 
         // ================================
@@ -61,7 +60,7 @@ public class Ejercicio1 {
         };
 
         // Recorrer matriz
-        System.out.println("Matriz:"); 
+        System.out.println("Matriz:");
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
                 System.out.print(matriz[i][j] + " ");

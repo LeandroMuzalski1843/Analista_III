@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7736f32a-e425-439f-8b44-0efbf894e3eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/ParcialLeandroMuzalski.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practico_III/Practico_III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/RecuperatorioPrimerParcialMuzalskiLeandroEmanuel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio1/CA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio1/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio1/PruebaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio2/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio2/PedidoExistenteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio2/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio2/ProductoNoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio2/SistemaTienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecuperatorioPrimerParcialMuzalskiLeandroEmanuel/src/ejercicio2/StockInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TableViewVideojuegos/src/main/java/com/leandromuzalski1843/tableviewvideojuegos/videojuegos/sistemaVideoJuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TableViewVideojuegos/src/main/java/com/leandromuzalski1843/tableviewvideojuegos/videojuegos/videoJuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unidad_II/Unidad_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unidad_III/Unidad_III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unidad_IV/Unidad_IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/PruebaBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/MainProyecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/controller/NuevoProyectoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/controller/ProyectosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/model/Proyecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/model/ProyectoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/model/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/model/TareaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/model/baseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/tablas.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/util/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/java/com/juan/ejemplomvc/util/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/resources/com/juan/ejemplomvc/nuevo-proyecto-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/EjemploMVC-main/src/main/resources/com/juan/ejemplomvc/proyectos-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio1/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio1/Prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio2/Concierto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio2/ConciertoNoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio2/SinEntradasDisponiblesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio2/SistemaConciertos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio2/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/AsientosNoDisponiblesException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/Boleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/Pasajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/PasajeroNoRegistradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/Prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/SistemaVentaBoletos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/Vuelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio3/VueloNoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio4/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio4/AutoNoDisponibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio4/AutoNoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio4/Prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio4/SistemaAlquiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/AlumnoYaInscriptoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/ClaseNoEncontradaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/CupoLlenoExcetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/Gimnasio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/Prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio5/SistemaGimnasio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio6/Bonificable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio6/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio6/EmpleadoEfectivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio6/EmpleadoFreelance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio6/EmpleadoNoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programacion_III/Resumen/src/ejerciciosParcial/ejercicio6/Empresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntroduccionJavaFX/src/main/java/com/leandromuzalski1843/introduccionjavafx/dashboard/DashBoardAplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntroduccionJavaFX/src/main/resources/com/leandromuzalski1843/introduccionjavafx/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Credito.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Credito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Efectivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Efectivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Farmacia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Farmacia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/FormaDePago.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/FormaDePago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Testeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParcialLeandroMuzalski/src/Testeo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/Cadena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/Practico_II.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/PruebasUnidad2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/Socios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/mesAnio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practico_II/mostradorEnteros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/Ejercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_II/src/PruebaArreglo/DiferenciaDias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_II/src/PruebaArreglo/DiferenciaDias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_III/src/ejemplo2ClaseAbstracta/Administrativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_III/src/ejemplo2ClaseAbstracta/Administrativo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_III/src/ejemplo2ClaseAbstracta/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_III/src/ejemplo2ClaseAbstracta/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Carnivoro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Carnivoro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Vegetariano.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_III/src/ejemploClaseAbtracta/Vegetariano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_IV/src/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_IV/src/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_IV/src/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_IV/src/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_IV/src/apunte.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Unidad_IV/src/apunte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_V/src/awt/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_V/src/awt/Chat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_V/src/swing/ChatSwing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unidad_V/src/swing/ListaItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/src/main/java/com/leandromuzalski1843/introducionjavafx/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/src/main/java/com/leandromuzalski1843/introducionjavafx/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/src/main/java/com/leandromuzalski1843/introducionjavafx/dashboard/DashBoardAplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/src/main/java/com/leandromuzalski1843/introducionjavafx/dashboard/DashBoardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/src/main/resources/cambioescena/dashboard.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/IntroducionJavaFX/src/main/resources/cambioescena/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programacion_III/Unidad_IV/src/ejerciciosMapa/ejercicio1/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programacion_III/Unidad_IV/src/ejerciciosMapa/ejercicio1/Producto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="33D2VvEoGPvVwnlOuU313FFqYqO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pauli/OneDrive/Desktop/Analista_III/Practicas_III/Sistema",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7736f32a-e425-439f-8b44-0efbf894e3eb" name="Changes" comment="" />
+      <created>1758837349157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758837349157</updated>
+    </task>
+    <servers />
+  </component>
+</project>

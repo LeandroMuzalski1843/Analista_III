@@ -1,10 +1,12 @@
 package ejercicio1;
 
-public class Prueba {
+public class PruebaBanco {
     public static void main(String[] args) {
         CuentaBancaria c1 = new CuentaBancaria("Leandro Muzalski");
         CuentaBancaria c2 = new CuentaBancaria("Cristian Muzalski",123);
+        CuentaBancaria c3 = new CuentaBancaria("");
 
+        System.out.println(c3.esActiva());
 
 
         System.out.println("Numero de cuenta: "+c1.getNumeroDeCuenta());
